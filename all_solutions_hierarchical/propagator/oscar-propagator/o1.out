@@ -1,0 +1,75 @@
+[info] Loading settings for project oscar-propagator-build from plugins.sbt ...
+[info] Loading project definition from /project/6040026/stawaway/Sampling-Matchings/all_solutions/propagator/oscar-propagator/project
+[warn] insecure HTTP request is deprecated 'Patterns(ivyPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false)'; switch to HTTPS or opt-in as Resolver.url("artifactory", url(...)).withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'Patterns(ivyPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false)'; switch to HTTPS or opt-in as Resolver.url("artifactory", url(...)).withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'Patterns(ivyPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false)'; switch to HTTPS or opt-in as Resolver.url("artifactory", url(...)).withAllowInsecureProtocol(true)
+[info] Loading settings for project root from build.sbt ...
+[info] Set current project to oscar-kep-propagator (in build file:/project/6040026/stawaway/Sampling-Matchings/all_solutions/propagator/oscar-propagator/)
+[warn] insecure HTTP request is deprecated 'Patterns(ivyPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=Vector(http://scalasbt.artifactoryonline.com/scalasbt/sbt-plugin-releases/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)([branch]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false)'; switch to HTTPS or opt-in as Resolver.url("artifactory", url(...)).withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/'; switch to HTTPS or opt-in as ("Oscar Snapshots" at "http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/'; switch to HTTPS or opt-in as ("Oscar Snapshots" at "http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/").withAllowInsecureProtocol(true)
+[warn] insecure HTTP request is deprecated 'http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/'; switch to HTTPS or opt-in as ("Oscar Snapshots" at "http://artifactory.info.ucl.ac.be/artifactory/libs-snapshot/").withAllowInsecureProtocol(true)
+[info] Compiling 1 Scala source to /project/6040026/stawaway/Sampling-Matchings/all_solutions/propagator/oscar-propagator/target/scala-2.12/classes ...
+[info] Done compiling.
+[warn] Multiple main classes detected.  Run 'show discoveredMainClasses' to see the list
+[info] [oscar-kep-propagator] Creating a distributable package in target/pack
+[info] [oscar-kep-propagator] Copying libraries to target/pack/lib
+[info] [oscar-kep-propagator] project jars:
+[info] target/scala-2.12/oscar-kep-propagator_2.12-1.0.jar
+[info] [oscar-kep-propagator] project dependencies:
+[info] xerces:xmlParserAPIs:2.6.2
+[info] log4j:log4j:1.2.12
+[info] oscar:oscar-algo_2.12:4.1.0-SNAPSHOT
+[info] oscar:oscar-algo_2.12:4.1.0-SNAPSHOT
+[info] org.swinglabs:swingx-ws:1.0
+[info] net.sf.ezmorph:ezmorph:0.8.1
+[info] cplex:cplex:12.8
+[info] xalan:xalan:2.7.0
+[info] avalon-framework:avalon-framework:4.1.3
+[info] org.scala-lang.modules:scala-xml_2.12:1.1.0
+[info] org.jfree:jfreechart:1.5.0
+[info] rome:rome:0.8
+[info] oscar:oscar-cp_2.12:4.1.0-SNAPSHOT-sources
+[info] jaxen:jaxen:1.1-beta-8
+[info] javax.servlet:servlet-api:2.3
+[info] commons-httpclient:commons-httpclient:3.0.1
+[info] org.scala-lang:scala-library:2.12.8
+[info] oscar:oscar-cp_2.12:4.1.0-SNAPSHOT
+[info] dom4j:dom4j:1.6.1
+[info] oscar:oscar-visual_2.12:4.1.0-SNAPSHOT
+[info] com.jhlabs:filters:2.0.235
+[info] oscar:oscar-algo_2.12:4.1.0-SNAPSHOT-sources
+[info] commons-beanutils:commons-beanutils:1.7.0
+[info] org.scala-lang.modules:scala-parser-combinators_2.12:1.1.2
+[info] xerces:xercesImpl:2.8.1
+[info] commons-lang:commons-lang:2.2
+[info] oscar:oscar-util_2.12:4.1.0-SNAPSHOT
+[info] junit:junit:3.8.1
+[info] commons-logging:commons-logging:1.1
+[info] xom:xom:1.1
+[info] logkit:logkit:1.0.1
+[info] net.sf.json-lib:json-lib:0.9
+[info] jdom:jdom:1.0
+[info] org.swinglabs:swing-worker:1.1
+[info] org.swinglabs:swingx:1.6.1
+[info] commons-codec:commons-codec:1.3
+[info] jtidy:jtidy:4aug2000r7-dev
+[info] com.github.scopt:scopt_2.12:4.0.0-RC2
+[info] [oscar-kep-propagator] unmanaged dependencies:
+[info] [oscar-kep-propagator] explicit dependencies:
+[info] [oscar-kep-propagator] Create a bin folder: target/pack/bin
+[info] [oscar-kep-propagator] Generating launch scripts
+[info] [oscar-kep-propagator] main class for relaxed-mdd: mdd.RelaxedMdd
+[info] [oscar-kep-propagator] Generating target/pack/bin/relaxed-mdd
+[info] [oscar-kep-propagator] Generating target/pack/bin/relaxed-mdd.bat
+[info] [oscar-kep-propagator] main class for enum-kep: models.EnumKep
+[info] [oscar-kep-propagator] Generating target/pack/bin/enum-kep
+[info] [oscar-kep-propagator] Generating target/pack/bin/enum-kep.bat
+[info] [oscar-kep-propagator] main class for greedy-kep: models.GreedyKep
+[info] [oscar-kep-propagator] Generating target/pack/bin/greedy-kep
+[info] [oscar-kep-propagator] Generating target/pack/bin/greedy-kep.bat
+[info] [oscar-kep-propagator] packed resource directories = /project/6040026/stawaway/Sampling-Matchings/all_solutions/propagator/oscar-propagator/src/pack
+[info] [oscar-kep-propagator] Generating target/pack/Makefile
+[info] [oscar-kep-propagator] Generating target/pack/VERSION
+[info] [oscar-kep-propagator] done.
+[success] Total time: 22 s, completed 30-Aug-2020 7:08:38 PM

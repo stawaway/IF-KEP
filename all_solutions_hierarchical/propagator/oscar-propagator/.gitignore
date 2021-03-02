@@ -1,0 +1,8 @@
+target
+.classpath
+.project
+.settings
+/bin/
+.cache-main
+data
+viz
